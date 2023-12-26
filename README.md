@@ -1,2 +1,1 @@
-# Local-store-sales-Dashboard
-Store sales dashboard
+#Sales Analysis Dashboard
